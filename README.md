@@ -12,13 +12,13 @@
 1.类模式处理类和子类之间的关系，这些关系通过继承建立，在编译时刻就被确定下来，是属于静态的。 <br>
 2.对象模式处理对象间的关系，这些关系在运行时刻变化，更具动态性。 <br>
 
-##A.创建型模式
+##A.创建型模式)<br>
 　　抽象工厂模式(Abstract Factory)<br>
 　　建造者模式(Builder)<br>
 　　工厂方法模式(Factory Method)<br>
 　　原型模式(Prototype)<br>
 　　单例模式(Singleton) <br>
-##B.结构型模式
+##B.结构型模式)<br>
 　　适配器模式(Adapter)<br>
 　　桥接模式(Bridge)<br>
 　　组合模式(Composite)<br>
@@ -26,7 +26,7 @@
 　　外观模式(Facade)<br>
 　　享元模式(Flyweight)<br>
 　　代理模式(Proxy)<br>
-##C.行为型模式
+##C.行为型模式)<br>
 　　责任链模式(Chain of Responsibility)<br>
 　　命令模式(Command)<br>
 　　解释器模式(Interpreter)<br>
