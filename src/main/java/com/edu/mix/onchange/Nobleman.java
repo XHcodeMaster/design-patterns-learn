@@ -1,4 +1,4 @@
-package com.edu.onchange;
+package com.edu.mix.onchange;
 
 public class Nobleman extends EventCustomer {
     //定义贵族能够处理的事件的级别

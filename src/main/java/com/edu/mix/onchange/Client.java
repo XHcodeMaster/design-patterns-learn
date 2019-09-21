@@ -1,4 +1,4 @@
-package com.edu.onchange;
+package com.edu.mix.onchange;
 
 public class Client {
     public static void main(String[] args) {

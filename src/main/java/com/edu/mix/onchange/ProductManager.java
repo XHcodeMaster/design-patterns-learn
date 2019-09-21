@@ -1,4 +1,4 @@
-package com.edu.onchange;
+package com.edu.mix.onchange;
 
 public class ProductManager {
     //是否可以创建一个产品

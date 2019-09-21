@@ -1,4 +1,4 @@
-package com.edu.onchange;
+package com.edu.mix.onchange;
 
 import java.util.Observable;
 import java.util.Observer;

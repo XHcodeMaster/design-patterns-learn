@@ -1,4 +1,4 @@
-package com.edu.onchange;
+package com.edu.mix.onchange;
 
 public class Commoner extends EventCustomer {
     //定义平民能够处理的事件的级别
