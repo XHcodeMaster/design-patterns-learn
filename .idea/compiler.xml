@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ThreadPool" />
+        <module name="DesignPatternLearn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ThreadPool" target="1.8" />
+      <module name="DesignPatternLearn" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
